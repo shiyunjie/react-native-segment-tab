@@ -1,5 +1,5 @@
 {
-  "name": "@shiyunjie/react-native-segment-tab",
+  "name": "@29azrael/react-native-segment-tab",
   "version": "0.1.1",
   "description": "segment-tab looks like ios component",
   "main": "lib/index.js",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Bob1993/react-native-segment-tab/issues"
   },
-  "homepage": "https://github.com/Bob1993/react-native-segment-tab#readme"
+  "homepage": "https://github.com/Bob1993/react-native-segment-tab#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "segment-tab"
+  ]
 }

@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bob1993/react-native-segment-tab.git"
+    "url": "https://github.com/shiyunjie/react-native-segment-tab.git"
   },
   "author": "poberwong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Bob1993/react-native-segment-tab/issues"
+    "url": "https://github.com/shiyunjie/react-native-segment-tab/issues"
   },
-  "homepage": "https://github.com/Bob1993/react-native-segment-tab#readme",
+  "homepage": "https://github.com/shiyunjie/react-native-segment-tab#readme",
   "directories": {
     "lib": "lib"
   },
